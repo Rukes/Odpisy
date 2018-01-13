@@ -1,0 +1,30 @@
+Zadejte prosím předmět odpisu:
+Osobní automobil
+Zadejte prosím vstupní cenu:
+550000
+Zadejte prosím odpisovou skupinu (hodnota 1 až 6):
+2
+Vše bylo správně zadáno, nyní probíhá výpočet...
+
+------- Daňové (rovnoměrné) odpisování -------
+1. rok (sazba: 11.0): odpis = 60 500 | oprávky = 60 500 | zůstatková cena = 489 500
+2. rok (sazba: 22.25): odpis = 122 375 | oprávky = 182 875 | zůstatková cena = 367 125
+3. rok (sazba: 22.25): odpis = 122 375 | oprávky = 305 250 | zůstatková cena = 244 750
+4. rok (sazba: 22.25): odpis = 122 375 | oprávky = 427 625 | zůstatková cena = 122 375
+5. rok (sazba: 22.25): odpis = 122 375 | oprávky = 550 000 | zůstatková cena = 0
+----------------------------------------------
+
+------- Daňové (zrychlené) odpisování -------
+1. rok (koeficient: 5): odpis = 110 000 | oprávky = 110 000 | zůstatková cena = 440 000
+2. rok (koeficient: 6): odpis = 176 000 | oprávky = 286 000 | zůstatková cena = 264 000
+3. rok (koeficient: 6): odpis = 132 000 | oprávky = 418 000 | zůstatková cena = 132 000
+4. rok (koeficient: 6): odpis = 88 000 | oprávky = 506 000 | zůstatková cena = 44 000
+5. rok (koeficient: 6): odpis = 44 000 | oprávky = 550 000 | zůstatková cena = 0
+----------------------------------------------
+
+--== Shrnutí ==--
+Odpisovaný předmět: Osobní automobil
+Odpisová skupina: 2
+Doba odepisování: 5 let
+Vstupní cena: 550 000,-
+--==--==--==--==--
